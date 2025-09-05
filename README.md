@@ -1,6 +1,3 @@
-# software-organizacao-academica-ESII
-
-
 
 # `StudyMate`
 
