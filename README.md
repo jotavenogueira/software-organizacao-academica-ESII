@@ -61,8 +61,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 /><img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="CSS"
+    title="CSS" 
     width="30px" 
     style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
@@ -76,6 +76,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
+    align="left" 
+    alt="REACT JS"
+    title="REACT JS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/><img 
     align="left" 
     alt="AWS"
     title="AWS" 
