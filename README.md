@@ -2,7 +2,7 @@
 # `StudyMate`
 
 ## **Resumo:**
-- O StudyMate é um software que visa auxiliar os estudantes com a organização da sua rotina acadêmica. Com o StudyMate, o usuário conseguirá se organizar melhor para atingir as suas metas no qual ele poderá ter acesso a sua agenda, data de provas e trabalhos, plano de estudos e um sistema gameficado.
+- StudyMate é um software que visa auxiliar os estudantes com a organização da sua rotina acadêmica. Com o StudyMate, o usuário conseguirá se organizar melhor para atingir as suas metas no qual ele poderá ter acesso a sua agenda, data de provas e trabalhos, plano de estudos e um sistema gameficado.
 
 ## **Principais Dores:**
 - Falta de organização
