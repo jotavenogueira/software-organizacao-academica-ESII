@@ -104,7 +104,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 <br/>
 
 ## **Integrantes e responsaveis:**
-- André Machado (Mobile)
 
 - Eduardo Aono (Nuvem)
 
@@ -112,6 +111,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 
 - João Vitor    (Back-End)
 
-- Kaue Guedes   (Front-End)
+- Kaue Guedes   (Mobile)
 
 - Luiz Gustavo (Front-End)
