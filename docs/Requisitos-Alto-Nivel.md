@@ -1,6 +1,6 @@
 # Casos de Uso do Sistema
 
-![Caso de Uso](/Requisitos.jpg)
+![Caso de Uso](/docs/Requisitos.jpg)
 
 
 ## Ator: Estudante
