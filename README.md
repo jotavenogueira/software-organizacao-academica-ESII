@@ -3,7 +3,7 @@
 
 ## **Resumo:**
 
-- O **StudyMate** é um software desenvolvido com o objetivo de auxiliar estudantes na organização e gestão da rotina acadêmica. A aplicação busca centralizar, em um único ambiente digital, informações fundamentais para a vida estudantil, permitindo ao usuário acompanhar de forma estruturada seus compromissos, prazos e progresso ao longo do período letivo.
+O **StudyMate** é um software desenvolvido com o objetivo de auxiliar estudantes na organização e gestão da rotina acadêmica. A aplicação busca centralizar, em um único ambiente digital, informações fundamentais para a vida estudantil, permitindo ao usuário acompanhar de forma estruturada seus compromissos, prazos e progresso ao longo do período letivo.
 
 Por meio do StudyMate, o estudante poderá acessar sua agenda acadêmica, visualizar datas de provas, trabalhos e tarefas, além de estruturar um plano de estudos de acordo com suas metas individuais. O sistema também possibilita o acompanhamento do desempenho acadêmico, oferecendo uma visão clara das atividades pendentes e concluídas, contribuindo para uma melhor gestão do tempo e redução de esquecimentos.
 
@@ -45,7 +45,7 @@ Acesse os [Requisitos de Alto Nível](docs/Requisitos-Alto-Nivel.md).
 ## **Protótipo Final do Projeto**
 
 * [Link](https://youtu.be/6xy3lcr84Jw) com apresentação final do Projeto.
-* [Protótipo final](https://preview--academi-buddy-quest.lovable.app/login) navegável do projeto.
+* [Protótipo final](https://preview--academi-buddy-quest.lovable.app/login) navegável do StudyMate.
 
 ## **Tecnologias que serão usadas:**
 <img 
