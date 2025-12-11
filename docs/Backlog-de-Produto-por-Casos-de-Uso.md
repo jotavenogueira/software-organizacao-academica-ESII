@@ -4,26 +4,26 @@
 
 ### 1. Registrar Disciplinas
 
-1.1 Como estudante, quero cadastrar as disciplinas que estou cursando.
-1.2 Como estudante, quero associar cada disciplina aos horários e semestres.
-1.3 Como estudante, quero editar e excluir disciplinas cadastradas.
+ 1.1 Como estudante, quero cadastrar as disciplinas que estou cursando.
+ 1.2 Como estudante, quero associar cada disciplina aos horários e semestres.
+ 1.3 Como estudante, quero editar e excluir disciplinas cadastradas.
 
 ### 2. Registrar Notas
 
-2.1 Como estudante, quero inserir as notas obtidas em cada disciplina.
-2.2 Como estudante, quero atualizar notas conforme novas avaliações são registradas.
-2.3 Como estudante, quero que a média final seja calculada automaticamente.
+ 2.1 Como estudante, quero inserir as notas obtidas em cada disciplina.
+ 2.2 Como estudante, quero atualizar notas conforme novas avaliações são registradas.
+ 2.3 Como estudante, quero que a média final seja calculada automaticamente.
 
 ### 3. Registrar Faltas
 
-3.1 Como estudante, quero informar minhas faltas em cada disciplina.
-3.2 Como estudante, quero visualizar meu percentual de frequência.
-3.3 Como estudante, quero receber alertas quando o limite de faltas estiver próximo.
+ 3.1 Como estudante, quero informar minhas faltas em cada disciplina.
+ 3.2 Como estudante, quero visualizar meu percentual de frequência.
+ 3.3 Como estudante, quero receber alertas quando o limite de faltas estiver próximo.
 
 ### 4. Registrar Horários
 
-4.1 Como estudante, quero adicionar dias e horários de cada disciplina.
-4.2 Como estudante, quero visualizar os horários em formato de agenda semanal.
+ 4.1 Como estudante, quero adicionar dias e horários de cada disciplina.
+ 4.2 Como estudante, quero visualizar os horários em formato de agenda semanal.
 
 ### 5. Registrar Tarefas
 
