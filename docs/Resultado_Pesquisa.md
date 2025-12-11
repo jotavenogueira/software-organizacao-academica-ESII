@@ -40,45 +40,45 @@ Esses resultados foram utilizados como base para:
 
 ## Gráficos dos Resultados da Pesquisa de Opinião
 
-![Pergunta 1](graficos-pesquisa/1-faixa-etaria.png)
+![Pergunta 1](../graficos-pesquisa/1-faixa-etaria.png)
 
-![Pergunta 2](graficos-pesquisa/2-local-de-estudo.png)
+![Pergunta 2](../graficos-pesquisa/2-local-de-estudo.png)
 
-![Pergunta 3](graficos-pesquisa/3-dificuldade.png)
+![Pergunta 3](../graficos-pesquisa/3-dificuldade.png)
 
-![Pergunta 4](graficos-pesquisa/4-desafios.png)
+![Pergunta 4](../graficos-pesquisa/4-desafios.png)
 
-![Pergunta 5](graficos-pesquisa/5-outros-aplicativos.png)
+![Pergunta 5](../graficos-pesquisa/5-outros-aplicativos.png)
 
-![Pergunta 6](graficos-pesquisa/6-possibilidade-de-app.png)
+![Pergunta 6](../graficos-pesquisa/6-possibilidade-de-app.png)
 
-![Pergunta 7](graficos-pesquisa/7-itens-que-chamam-atencao.png)
+![Pergunta 7](../graficos-pesquisa/7-itens-que-chamam-atencao.png)
 
-![Pergunta 8](graficos-pesquisa/8-lembretes.png)
+![Pergunta 8](../graficos-pesquisa/8-lembretes.png)
 
-![Pergunta 9](graficos-pesquisa/9-dispositivo.png)
+![Pergunta 9](../graficos-pesquisa/9-dispositivo.png)
 
-![Pergunta 10](graficos-pesquisa/10-motivos-para-usar.png)
+![Pergunta 10](../graficos-pesquisa/10-motivos-para-usar.png)
 
-![Pergunta 11](graficos-pesquisa/11-essencial-para-notas.png)
+![Pergunta 11](../graficos-pesquisa/11-essencial-para-notas.png)
 
-![Pergunta 12](graficos-pesquisa/12-registro-presenca.png)
+![Pergunta 12](../graficos-pesquisa/12-registro-presenca.png)
 
-![Pergunta 13](graficos-pesquisa/13-plano-de-estudos.png)
+![Pergunta 13](../graficos-pesquisa/13-plano-de-estudos.png)
 
-![Pergunta 14](graficos-pesquisa/14-gamificacao.png)
+![Pergunta 14](../graficos-pesquisa/14-gamificacao.png)
 
-![Pergunta 15](graficos-pesquisa/15-o-que-atrai-com-gamificacao.png)
+![Pergunta 15](../graficos-pesquisa/15-o-que-atrai-com-gamificacao.png)
 
-![Pergunta 16](graficos-pesquisa/16-preferencia-competicao.png)
+![Pergunta 16](../graficos-pesquisa/16-preferencia-competicao.png)
 
-![Pergunta 17](graficos-pesquisa/17-formato-de-desafio.png)
+![Pergunta 17](../graficos-pesquisa/17-formato-de-desafio.png)
 
-![Pergunta 18](graficos-pesquisa/18-aumenta-motivacao-diaria.png)
+![Pergunta 18](../graficos-pesquisa/18-aumenta-motivacao-diaria.png)
 
-![Pergunta 19](graficos-pesquisa/19-pagamento-para-usar.png)
+![Pergunta 19](../graficos-pesquisa/19-pagamento-para-usar.png)
 
-![Pergunta 20](graficos-pesquisa/20-plano-premium.png)
+![Pergunta 20](../graficos-pesquisa/20-plano-premium.png)
 
 E na última questão, sendo esta discursiva e opcional, o participante deveria responder o que gostaria de ver em um aplicativo que ajudaria ainda mais a rotina acadêmica. Obtivemos 14 respostas:
 
