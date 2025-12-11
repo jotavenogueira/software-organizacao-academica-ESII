@@ -18,14 +18,8 @@ Além disso, o software incorpora um sistema de gamificação, utilizando recomp
 - Dificuldade de visualização do seu desempenho
 
 ## **Modelo de Negócio:**
-<p>
-  <img 
-    align="center" 
-    alt="Modelo de Negócio" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="docs/Canvas_StudyMate.png"
-  />
+
+![Modelo de Negócios](docs/Canvas_StudyMate.png)
 
 ## **Requisitos de Alto Nível:**
 ### O sistema deve: 
@@ -46,6 +40,13 @@ Acesse os [Requisitos de Alto Nível](docs/Requisitos-Alto-Nivel.md).
 
 * [Link](https://youtu.be/6xy3lcr84Jw) com apresentação final do Projeto.
 * [Protótipo final](https://preview--academi-buddy-quest.lovable.app/login) navegável do StudyMate.
+
+## **Documentação**
+
+- [Backlog e Casos de Uso](docs/Backlog-de-Produto-por-Casos-de-Uso.md)
+- [Diagrama de Classes](docs/Diagrama_Classes.png)
+- [Diagrama Entidade Relacionamento](docs/DiagramaER.png)
+- [Resultado de Pesquisa de Opinião](docs/Resultado_Pesquisa.md)
 
 ## **Tecnologias que serão usadas:**
 <img 
